@@ -1,0 +1,8 @@
+triangle condition
+
+a+b>c
+b+c>a
+c+a>b
+
+if sort:
+    check a+b>c
